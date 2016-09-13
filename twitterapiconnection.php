@@ -26,7 +26,7 @@ $settings = array(
 //$twitter = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 //url for getting list of followers
 //$url = 'https://api.twitter.com/1.1/followers/list.json';
-//$getfield = '?username=abhinay_balusu&skip_status=1';
+//$getfield = '?username=YOUR_USENAME&skip_status=1';
 //url for getting all the tweets related to a particular hashtag
 //$url = 'https://api.twitter.com/1.1/search/tweets.json';
 //$getfield = '?q=%23usopen&result_type=recent';
