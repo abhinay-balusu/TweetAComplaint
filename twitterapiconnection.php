@@ -18,10 +18,10 @@ $insertQuery="INSERT INTO complaint (Description, Location,Resolution_Status,Has
 mysql_query($insertQuery);
 
 $settings = array(
-	'oauth_access_token' => "4064195836-Z0OPSodnw2ftFZZ70qiBVjtVnAcc7oy0AiIS7qb",
-    'oauth_access_token_secret' => "E7TXtTzaR9MqVxTobZxx09yxj55nXE5GnRfQvbUkSVqnl",
-    'consumer_key' => "YRF6qN2BML1reESGmDWilX3Yv",
-    'consumer_secret' => "GIZrEHTVpU5TefNqzg0wqznYgO0r1KCfNCIJidbFLGSKJsAJ20"
+	'oauth_access_token' => "Access Token",
+    'oauth_access_token_secret' => "access_token_secret",
+    'consumer_key' => "consumer_key",
+    'consumer_secret' => "consumer_secret"
 );
 //$twitter = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 //url for getting list of followers
